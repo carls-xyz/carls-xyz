@@ -17,13 +17,8 @@ Ce compte regroupe mes projets personnels et mes projets réalisés en cours ou 
 | [bootcamp](https://github.com/carls-xyz/bootcamp) | Projet d'équipe : catalogue de jeux rétro. J'y ai développé l'API REST en PHP et l'affichage côté client | PHP, PDO, JavaScript |
 | [emotions-project](https://github.com/carls-xyz/emotions-project) | Petit jeu d'ambiance en front pur, avec animations CSS | Vite, JavaScript, CSS |
 
+### Me contacter
 
+- Portfolio — [portfolio-six-rho-84cr4xv2i2.vercel.app](https://portfolio-six-rho-84cr4xv2i2.vercel.app)
+- M'écrire — [formulaire de contact](https://portfolio-six-rho-84cr4xv2i2.vercel.app/contact)
 
-- GitHub — [@carls-xyz](https://github.com/carls-xyz)
-
-<!--
-À compléter par Charles :
-  - lien LinkedIn
-  - adresse mail de contact si tu veux la rendre publique
-Ajoute-les dans la section "Me contacter" ci-dessus.
--->
