@@ -1,21 +1,8 @@
 ## Charles Bauchet
 
 Étudiant développeur web à l'IIM (Institut de l'Internet et du Multimédia), en cycle CDI.
-Je travaille surtout en **PHP / Symfony** côté serveur et en **Next.js / TypeScript** côté client, et j'explore le RAG et l'automatisation avec des LLM sur mon temps libre.
 
 Ce compte regroupe mes projets personnels et mes projets réalisés en cours ou en équipe. Les projets académiques sont identifiés comme tels dans leur README.
-
----
-
-### Stack
-
-**Frontend** — TypeScript, JavaScript, React, Next.js, Nuxt (Vue), Tailwind CSS, Vite, HTML/CSS
-
-**Backend** — PHP (orienté objet, MVC), Symfony, Doctrine, Python, Flask, Node.js, MySQL, API REST
-
-**IA / Automatisation** — LangChain, ChromaDB, embeddings HuggingFace, API Groq (Llama 3.3), n8n
-
-**Outils** — Git, Composer, npm, Docker Compose, WordPress
 
 ---
 
@@ -30,18 +17,7 @@ Ce compte regroupe mes projets personnels et mes projets réalisés en cours ou 
 | [bootcamp](https://github.com/carls-xyz/bootcamp) | Projet d'équipe : catalogue de jeux rétro. J'y ai développé l'API REST en PHP et l'affichage côté client | PHP, PDO, JavaScript |
 | [emotions-project](https://github.com/carls-xyz/emotions-project) | Petit jeu d'ambiance en front pur, avec animations CSS | Vite, JavaScript, CSS |
 
-### Projets académiques
 
-Les autres repositories viennent de mes cours à l'IIM : PHP orienté objet, Symfony, sécurité web, SCSS, Nuxt, WordPress. Je les garde publics parce qu'ils montrent ma progression, et parce que plusieurs sont des travaux d'équipe.
-Quand un projet a été réalisé à plusieurs, son README précise ce que j'y ai personnellement écrit.
-
-### Ce que j'apprends en ce moment
-
-- Approfondir Symfony au-delà du CRUD : services, sécurité, tests
-- Le RAG et l'usage d'API de LLM dans des applications concrètes
-- Écrire des tests et automatiser les vérifications avant de livrer
-
-### Me contacter
 
 - GitHub — [@carls-xyz](https://github.com/carls-xyz)
 
